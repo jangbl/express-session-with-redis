@@ -45,7 +45,7 @@ brew services  stop redis
 
 ### 2. Install dependencies
 
-Run
+Run:
 
 ```
 npm install
@@ -53,7 +53,7 @@ npm install
 
 to install the project's dependencies.
 
-### 3. Run project
+### 3. Start server
 
 Execute the `dev` script to start up your server.
 
