@@ -2,11 +2,13 @@
 
 This repository contains sample code on how to use [Redis](https://redis.io) for a cookie-based session implementation with [Redis](https://redis.io) and the Node.js [express](https://expressjs.com/) framework.
 
-This repository is part of the *[Sessions in  express.js tutorial series on YouTube](https://www.youtube.com/playlist?list=PL1Nml43UBm6fPP7cW9pAFTdZ_9QX2mBn2) provided by [productioncoder.com](https://productioncoder.com/)*.
-
-For updates, please reach out to [@productioncoder](https://twitter.com/productioncoder) on Twitter or leave a comment in the [Youtube playlist](https://www.youtube.com/playlist?list=PL1Nml43UBm6fPP7cW9pAFTdZ_9QX2mBn2).
-
 <h3 align="center">Please help this repo with a ⭐️ if you find it useful! 😁</h3>
+
+This repository is part of the _[Sessions in express.js tutorial series on YouTube](https://www.youtube.com/watch?v=bvQah0k5-eA&list=PL1Nml43UBm6fPP7cW9pAFTdZ_9QX2mBn2&index=2) provided by [productioncoder.com](https://productioncoder.com/)_.
+
+[![Express sessions with redis](images/sessions-in-express-with-redis-and-cookies.png)](https://www.youtube.com/watch?v=bvQah0k5-eA&list=PL1Nml43UBm6fPP7cW9pAFTdZ_9QX2mBn2&index=2)
+
+For updates, please reach out to [@productioncoder](https://twitter.com/productioncoder) on Twitter.
 
 ## Session implementation with express.js and express-session
 
