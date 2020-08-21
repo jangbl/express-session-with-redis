@@ -4,9 +4,9 @@ This repository contains sample code on how to use [Redis](https://redis.io) for
 
 <h3 align="center">Please help this repo with a ⭐️ if you find it useful! 😁</h3>
 
-This repository is part of the _[Sessions in express.js tutorial series on YouTube](https://www.youtube.com/watch?v=bvQah0k5-eA&list=PL1Nml43UBm6fPP7cW9pAFTdZ_9QX2mBn2&index=2) provided by [productioncoder.com](https://productioncoder.com/)_.
+This repository is part of the [Sessions in express.js tutorial series on YouTube](https://www.youtube.com/watch?v=bvQah0k5-eA&list=PL1Nml43UBm6fPP7cW9pAFTdZ_9QX2mBn2) provided by [productioncoder.com](https://productioncoder.com/).
 
-[![Express sessions with redis](images/sessions-in-express-with-redis-and-cookies.png)](https://www.youtube.com/watch?v=bvQah0k5-eA&list=PL1Nml43UBm6fPP7cW9pAFTdZ_9QX2mBn2&index=2)
+[![Express sessions with redis](images/sessions-in-express-with-redis-and-cookies.png)](https://www.youtube.com/watch?v=bvQah0k5-eA&list=PL1Nml43UBm6fPP7cW9pAFTdZ_9QX2mBn2)
 
 For updates, please reach out to [@productioncoder](https://twitter.com/productioncoder) on Twitter.
 
